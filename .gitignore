@@ -1,0 +1,17 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Visual Studio/VS Code
+.vscode/
+*.code-workspace
+
+# Streamer.bot exports
+*.sb
+
+# Temp files
+*.tmp
+*.bak
